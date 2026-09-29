@@ -34,13 +34,6 @@ Python 기반 알고리즘 학습과 웹 개발(Django, Vue)을 경험했으며,
 
 ## 🚀 Journey
 
-### Safety Management Experience
-
-* 현장 안전관리 수행
-* 위험성 평가 및 안전점검
-* 산업안전 관련 문서 관리
-* 협력사 및 현장 인원 안전교육
-
 ### Student Leadership Experience
 
 * 총동아리연합회 학생회장
