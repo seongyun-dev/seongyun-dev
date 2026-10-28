@@ -1,64 +1,41 @@
 # 안성윤 (An SeongYun)
 
-## 👋 About Me
+### 현장 경험을 데이터 기반 운영 개선으로 연결합니다
 
-안녕하세요.
+냉동공조공학과를 졸업하고 안전관리 실무를 경험했습니다. 현재 SSAFY에서 소프트웨어와 데이터 분석 역량을 쌓으며, 현장의 맥락과 데이터를 함께 살펴 실행 가능한 개선으로 연결하는 FDO·데이터 분석 직무를 지향합니다.
 
-냉동공조공학과를 졸업하고 안전관리 실무 경험을 쌓은 후, 현재 SSAFY에서 소프트웨어 개발을 공부하며 개발자로 성장하고 있습니다.
+## 관심 분야
 
-Python 기반 알고리즘 학습과 웹 개발(Django, Vue)을 경험했으며, 현재는 Java를 학습하며 알고리즘과 백엔드 개발 역량을 키워가고 있습니다.
+- 현장 운영과 데이터 분석
+- 데이터 품질과 근거 확인
+- 분석 결과를 실제 업무 개선으로 연결하기
 
----
+## 팀 프로젝트
 
-## 📚 Currently Learning
+아래 내용은 각 프로젝트의 **팀 전체 서비스 범위**를 소개합니다. 개인 역할이나 성과로 오해될 표현은 넣지 않았습니다.
 
-* Python
-* Java
-* SQL
-* Django
-* Vue.js
-* Algorithm
+### [GitJob](https://github.com/seongyun-dev/GitJob)
 
----
+GitHub 저장소의 기술 사용 근거와 채용 공고 수요를 연결해 기술 격차와 학습 방향을 제안하는 서비스.
 
-## 🚧 Projects In Progress
+### [R0-KI](https://github.com/seongyun-dev/R0-KI)
 
-### 할래말래 (Board Game Recommendation Service)
+아파트 자율 순찰 로봇의 상태와 탐지 이벤트를 실시간 관제 화면 및 운영 정보와 연결하는 서비스.
 
-* SSAFY 관통 프로젝트
-* Django + Vue 기반 웹 서비스
-* 사용자 취향 기반 보드게임 추천 기능 개발
-* GitHub 및 Jira를 활용한 협업 진행
+### 할래말래
 
----
+보드게임 정보와 취향 기반 추천, 매장 지도와 커뮤니티를 제공하는 서비스.  
+[서비스 데모](https://halraemallae.web.app)
 
-## 🚀 Journey
+## 경험
 
-### Student Leadership Experience
+- 안전관리 실무 경험
+- 총동아리연합회 학생회장 및 해외봉사단 학생부단장 경험
 
-* 총동아리연합회 학생회장
-* 동아리 박람회 및 행사 기획
-* 학생 의견 수렴 및 조직 운영
-* 예산 관리 및 대외 협력
+## 현재 학습
 
-### Overseas Volunteer Team Leader
+Python · SQL · 데이터 분석
 
-* 해외봉사단 학생부단장
-* 봉사 일정 및 인원 관리
-* 현지 프로그램 운영 지원
-* 팀원 간 소통 및 협업 주도
+## Contact
 
----
-
-## 🎯 Interests
-
-* Software Development
-* Smart Factory
-* Manufacturing IT
-* Public IT Services
-
----
-
-## 📫 Contact
-
-* Email: [anjong777@naver.com](mailto:anjong777@naver.com)
+[anjong777@naver.com](mailto:anjong777@naver.com)
